@@ -1,0 +1,130 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest identifier="_68cnXSbpKWW_course_id" version="1.0" xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>1.2</schemaversion>
+    <lom xmlns="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd">
+      <general>
+        <title>
+          <langstring xml:lang="x-none">Upskilling Leaders to Improve Employee Engagement</langstring>
+        </title>
+        <description>
+          <langstring xml:lang="x-none">Upskilling Leaders to Improve Employee Engagement</langstring>
+        </description>
+      </general>
+      <lifecycle>
+        <version>
+          <langstring xml:lang="x-none">1</langstring>
+        </version>
+        <status>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">Final</langstring>
+          </value>
+        </status>
+      </lifecycle>
+      <metametadata>
+        <metadatascheme>ADL SCORM 1.2</metadatascheme>
+      </metametadata>
+      <educational>
+        <typicallearningtime>
+          <datetime>PT0H0M0S</datetime>
+        </typicallearningtime>
+      </educational>
+      <rights>
+        <cost>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </cost>
+        <copyrightandotherrestrictions>
+          <source>
+            <langstring xml:lang="x-none">LOMv1.0</langstring>
+          </source>
+          <value>
+            <langstring xml:lang="x-none">yes</langstring>
+          </value>
+        </copyrightandotherrestrictions>
+      </rights>
+    </lom>
+  </metadata>
+  <organizations default="Upskilling_Leaders_to_Improve_Employee_Engagement_ORG">
+    <organization identifier="Upskilling_Leaders_to_Improve_Employee_Engagement_ORG">
+      <title>Upskilling Leaders to Improve Employee Engagement</title>
+      <item identifier="template02quiz-light_SCO" isvisible="true" identifierref="__68cnXSbpKWW_course_id_RES">
+        <title>Upskilling Leaders to Improve Employee Engagement</title>
+      </item>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__68cnXSbpKWW_course_id_RES" type="webcontent" href="index_lms.html" adlcp:scormtype="sco">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/6Bn5VhuVA7G_65_P_2_0_712_538_DX1436_DY1436_CX712_CY538.jpg" />
+      <file href="mobile/6EfEhDaPozi_65_DX1440_DY1440_CX1132_CY849.png" />
+      <file href="mobile/6qOJurYvGpo_65_DX592_DY592_CX465_CY178.jpg" />
+      <file href="mobile/5dNpEg9GErI_65_DX614_DY614_CX482_CY188.jpg" />
+      <file href="mobile/69mev6DKXQN_65_P_303_0_803_824_DX976_DY976_CX428_CY440.png" />
+      <file href="story_content/report.html" />
+      <file href="mobile/5wLSC1ZbULt_65_DX1440_DY1440_CX618_CY376.png" />
+      <file href="meta.xml" />
+      <file href="story_content/url.png" />
+      <file href="story_content/user.js" />
+      <file href="mobile/txt__default_6KMitTvSzux.png" />
+      <file href="mobile/txt__default_5fHaOXWZMu9.png" />
+      <file href="mobile/txt__default_6nuCmOT0vEy.png" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5aAOaSuveBf.js" />
+      <file href="html5/data/js/5aiUCdmqL4j.js" />
+      <file href="html5/data/js/5d3Gdc1mmPZ.js" />
+      <file href="html5/data/js/5e2zrhQkiXv.js" />
+      <file href="html5/data/js/5iSvm7BBfcF.js" />
+      <file href="html5/data/js/5iXP6briZ8G.js" />
+      <file href="html5/data/js/5mWPrd5vb5Z.js" />
+      <file href="html5/data/js/5nKTsy2RRYQ.js" />
+      <file href="html5/data/js/5rhbxkhZzuA.js" />
+      <file href="html5/data/js/61pLLgzWDlQ.js" />
+      <file href="html5/data/js/64WA6GQ5QI9.js" />
+      <file href="html5/data/js/67WYeL3bLxK.js" />
+      <file href="html5/data/js/68maVLVzKpu.js" />
+      <file href="html5/data/js/6A0PnJHhvaQ.js" />
+      <file href="html5/data/js/6BXX9KZimQs.js" />
+      <file href="html5/data/js/6dA3FYOT9vj.js" />
+      <file href="html5/data/js/6Dxjzv5vsQt.js" />
+      <file href="html5/data/js/6FE3dNOqlbr.js" />
+      <file href="html5/data/js/6JqMEh5UodO.js" />
+      <file href="html5/data/js/6jYfFeXzGCK.js" />
+      <file href="html5/data/js/6MAodgI0qFn.js" />
+      <file href="html5/data/js/6mxOsJVp9NU.js" />
+      <file href="html5/data/js/6NOQqWXTGy7.js" />
+      <file href="html5/data/js/6pTrYMYblIP.js" />
+      <file href="html5/data/js/6qmp004CFMM.js" />
+      <file href="html5/data/js/6XfJxblmRqm.js" />
+      <file href="html5/data/js/6XiMASW1jlk.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
